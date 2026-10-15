@@ -1,0 +1,28 @@
+# Turn Your Strategy into an Outcome Roadmap, Module 2 Lab
+
+## Prioritize your Rocks and your Hard Nos
+- **Rock #1:** #4 Fix the notification system (wrong times, time zone bug)
+Wrong-time alerts in a sleep app directly hurt sleep and drive churn
+- **Rock #2:** #10 Close WCAG 2.1 accessibility compliance gap flagged in audit must do, legal obligation
+- **Rock #3:** #6 - Add AI-generated daily check-in prompts personalized to user history
+KR1 needs customers' opt-in choice
+- **❌ Hard No #1:** #7 Localize the app into Spanish and Portuguese
+LATM is outside my where-to-play
+- **❌ Hard No #2:** #13 Introduce "Fable for Teams", a B2B workplace wellbeing play
+different demographic than where we are playing
+- **❌ Hard No #3:** #5 Launch a premium tier with therapist-matching 
+this enters clinical space (no-go)
+
+## Show and swap
+- **Do the Rock selections feel traceable to a clear strategy, or do they read like a feature list?:** Yes
+- **Pick one Hard No and make the case for why it should actually be a Rock.:** Daily streaks, if delivered well, could be the feature that keeps users engaged and motivated to continue to use the app; it may be the game changer needed to maintain or increase retention
+
+A toggle to disable daily streaks should be readily available
+
+## Review and refine
+- **Does every Now item read as a strategic bet, or does it sound like a feature description?:** _(not filled in)_
+- **Can you trace every Now item back to one of your OKRs?:** _(not filled in)_
+- **If someone who had never seen your strategy read the Now column, would they know what problem you are solving this quarter?:** _(not filled in)_
+
+## Save your roadmap
+- **Where did you save your roadmap? (link or file):** _(not filled in)_
