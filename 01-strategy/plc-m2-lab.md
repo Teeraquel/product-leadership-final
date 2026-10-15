@@ -3,9 +3,8 @@
 ## Prioritize your Rocks and your Hard Nos
 - **Rock #1:** #4 Fix the notification system (wrong times, time zone bug)
 Wrong-time alerts in a sleep app directly hurt sleep and drive churn
-- **Rock #2:** #12 Build a content library: guided meditations, articles, audio
-- **Rock #3:** #6 - Add AI-generated daily check-in prompts personalized to user history
-KR1 needs customers' opt-in choice
+- **Rock #2:** #12 Build a content library: guided meditations, articles, audio - If current users have high-quality non-sleep content one tap away, more will make self-care beyond sleep a weekly habit
+- **Rock #3:** #6 - Add AI-generated daily check-in prompts personalized to user history - Personalized check-ins for opted-in users drive KR1 and test our opt-in rate
 - **❌ Hard No #1:** #7 Localize the app into Spanish and Portuguese
 LATM is outside my where-to-play
 - **❌ Hard No #2:** #13 Introduce "Fable for Teams", a B2B workplace wellbeing play
