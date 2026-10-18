@@ -6,17 +6,17 @@
 
 | Question | Choice |
 |---|---|
-| Winning aspiration | Young professionals (aged 25-30 in NY, LA, Chicago) use Fable to sleep well consistently during and after difficult periods, and have access to additional self-care support, beyond sleep, when they need it |
-| Where to play | US, urban cities (NY, LA, Chicago), users ages 25-30 professionals |
-| How to win | Historical data for our target group (~ 8% of total 4.2 million users) which provides insights about Fable's existing customers' allowing for personalization built on what we’ve learned from our existing users. |
-| Capabilities required | an enhanced personalized experience to increase current options for self-care (beyond sleep support) when using the app |
-| Management systems | sleep-quality check-ins monthly, churn quarterly with monthly active users as the weekly early warning, and non-sleep feature adoption weekly |
+| Winning aspiration | Young professionals ages 25-30 (current highest usage segment) continue to use Fable after sleep improves, and also choose to use the app for a personalized enhanced experience that provides them additional self-care support beyond sleep |
+| Where to play | United States; users ages 25-30 professionals |
+| How to win | Historical data for Fable's existing customers in our target group which provides insights about sleep patterns and other habits and activities that they currently enjoy, allowing for personalization built on what we’ve learned about our existing users |
+| Capabilities required | a self-care content library, detect when someone’s sleep has improved |
+| Management systems | sleep-quality check-ins monthly, sentiment analysis, non-sleep feature adoption weekly, churn quarterly with monthly active users as the weekly early warning, 30-day retention of newly improved users monthly check-in |
 
 ## One hard no
-We will not use an individual’s historical data to personalize their experience unless they explicitly opt in
+We wont sell data or share it with employers, insurers or advertisers or use it for anything outside the product, unless a user directs us to
 
 ## OKR cascade
-- **Objective:** Become the app young professionals in NY, LA and Chicago rely on for sleep, and increasingly for self-care beyond it
-- **KR1:** Increase the share of current users (aged 25-30 in NY, LA, Chicago), who report improved sleep quality over 60 days from 10% to 20% by end of Q3 2027.
-- **KR2:** Reduce quarterly churn among current users (aged 25–30 in NY, LA, Chicago) from 10% to 8% by end of Q3 2027.
-- **KR3:** Increase the share of current users (aged 25–30 in NY, LA, Chicago) who use at least one non-sleep self-care feature in 3 of every 4
+- **Objective:** Become the app young professionals rely on for sleep, and increasingly for self-care beyond it KR1: Increase 90-day retention among target users who report improved sleep from 80% to 90% by end of Q3 2027.
+- **KR1:** Increase 90-day retention among target users who report improved sleep from 80% to 90% by end of Q3 2027.
+- **KR2:** Reduce quarterly churn in the target group from 40% to 10% by end of Q3 2027.
+- **KR3:** Show that target users given access to the enhanced features retain at least 10 points better than a holdout group matched on starting sleep quality and engagement by end of Q2 2027.  Guardrail, (management system data): sleep improvement stays at or above 80%.
