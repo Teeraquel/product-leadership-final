@@ -6,7 +6,7 @@
 
 ## Friction points
 
-_Prioritizing was the hardest part of building this strategy?_
+___Prioritizing was the hardest part of building this strategy.__
 
 > _____
 
