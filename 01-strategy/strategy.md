@@ -1,20 +1,27 @@
 # Write a Strategy That Can Survive a Test, Module 1 Lab
 
 ## Write your one-page strategy
-- **Winning aspiration: define winning in the customer's terms, not internal metrics. What does success look like for the specific person you serve?:** Young professionals (aged 25-30 in NY, LA, Chicago) use Fable to sleep well consistently during and after difficult periods, and have access to additional self-care support, beyond sleep, when they need it
-- **Where to play: segment, geography, and use case, explicitly. Which customers, markets, and surfaces will you focus on?:** US, urban cities (NY, LA, Chicago), users ages 25-30 professionals
-- **How to win: your differentiator. What can you do that your specific competitors cannot easily replicate?:** Historical data for our target group (~ 8% of total 4.2 million users) which provides insights about Fable's existing customers' allowing for personalization built on what we’ve learned from our existing users.
-- **Capabilities required: what you must be world-class at. What will you build, buy, or partner for?:** an enhanced personalized experience to increase current options for self-care (beyond sleep support) when using the app
-- **Management systems: the metrics and rituals that keep your choices alive quarter to quarter.:** sleep-quality check-ins monthly, churn quarterly with monthly active users as the weekly early warning, and non-sleep feature adoption weekly
+- **Winning aspiration: define winning in the customer's terms, not internal metrics. What does success look like for the specific person you serve?:** Young professionals aged 25–30 (currently our highest-usage segment) continue to use Fable after their sleep improves. They also choose the app for a personalized experience that gives them self-care support beyond sleep.
+- **Where to play: segment, geography, and use case, explicitly. Which customers, markets, and surfaces will you focus on?:** Professionals aged 25–30 in the US.
+- **How to win: your differentiator. What can you do that your specific competitors cannot easily replicate?:** We know, better than anyone, the moment a user's sleep recovers and what helped them get there. We use that moment, and with permission that history, to offer the next right step: self-care matched to their habits and interests, a lighter plan, or a check-in when a hard stretch returns.
+- **Capabilities required: what you must be world-class at. What will you build, buy, or partner for?:** • A self-care content library
+- The ability to detect when someone's sleep has improved
+- A personalization engine that matches content to each user's history
+- Randomized holdout experiments to measure what actually drives retention
+- Maintenance-tier, pause and consent-based win-back flows
+- **Management systems: the metrics and rituals that keep your choices alive quarter to quarter.:** Sleep-quality check-ins monthly, sentiment analysis, and non-sleep feature adoption weekly. Churn quarterly, with monthly active users as the weekly early warning.
 
 ## Name your one hard no
-- **Your one hard no:** We will not use an individual’s historical data to personalize their experience unless they explicitly opt in
+- **Your one hard no:** We won’t sell data or share it with employers, insurers, or advertisers, or use it for anything outside the product, unless a user directs us to.
 
 ## Write your three OKRs
-- **Objective:** Become the app young professionals in NY, LA and Chicago rely on for sleep, and increasingly for self-care beyond it
-- **KR1:** Increase the share of current users (aged 25-30 in NY, LA, Chicago), who report improved sleep quality over 60 days from 10% to 20% by end of Q3 2027.
-- **KR2:** Reduce quarterly churn among current users (aged 25–30 in NY, LA, Chicago) from 10% to 8% by end of Q3 2027.
-- **KR3:** Increase the share of current users (aged 25–30 in NY, LA, Chicago) who use at least one non-sleep self-care feature in 3 of every 4 weeks from 20% to 28% by end of Q3 2027.
+- **Objective:** Become the app young professionals rely on for sleep, and increasingly for self-care beyond it.
+- **KR1:** 90-day retention among target users who report improved sleep. baseline 30%; target 60% by end of Q3 2027.
+- **KR2:** Quarterly churn in the target group from 10% to 8% by end of Q3 2027.
+- **KR3:** Retention lift from self-care, versus a randomly assigned holdout group; baseline=none; target at least 10 points by end of Q2 2027.
+- KR3 test design: Target users whose sleep has improved are randomly assigned to receive self-care features or not. Retention is compared by group, regardless of whether people used the features.
+-KR3 decision rule: If the lift is under 10 points by end of Q2 2027, we shift investment from self-care to the maintenance tier, pause option and win-back.
+-Guardrail: Sleep improvement stays at or above 80% while we expand into self-care. It is tracked in our management systems, not as a key result.
 
 ## AI pressure-test
 - **Which challenge from the AI is most valid, and why?:** the suggestion for where to play (list the cities and demographic for more specificity)
