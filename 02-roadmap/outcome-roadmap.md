@@ -10,7 +10,7 @@
 | Next (3 to 6 mo) | _____ | _____ | _____ |
 | Later (6 to 12 mo) | _____ | _____ | _____ |
 
-Roadmap visual: https://github.com/Teeraquel/product-leadership-final/blob/main/01-strategy/Fable_Roadmap.pdf
+Roadmap visual: https://github.com/Teeraquel/product-leadership-final/blob/main/02-roadmap/roadmap.pdf
 
 ## 2. Trade-off memo
 
