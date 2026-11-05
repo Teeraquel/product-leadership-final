@@ -6,7 +6,7 @@
 
 ## Friction points
 
-_What was the hardest part of building this strategy, and how did you work through it?_
+_Prioritizing was the hardest part of building this strategy?_
 
 > _____
 
