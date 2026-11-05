@@ -1,63 +1,22 @@
-# Product Strategy One-Pager & OKRs: [Fable / Meridian / your initiative]
+# Product Strategy One-Pager & OKRs, Module 1
 
-> Module 1 · Craft an Advanced Product Strategy, ★ Deliverable 1
->
-> Your one spine: the **Playing to Win** cascade, one deliberate **hard no**, and an **OKR cascade** that flows directly from it.
-> Draft the cascade + hard no in Sprint 1, then add the OKRs in Sprint 2. The goal: specific enough that a skeptical board member couldn't poke a hole in it.
+- **Scenario:** Fable Growth (B2C)
 
-## 0. Chosen scenario
+## Playing to Win cascade
 
-**Path:** _Fable Growth (B2C · retention + engagement) · Meridian Foundations (B2B · adoption + expansion) · my own initiative_
-
-_One line on why you picked it._
-
-## 1. Playing to Win cascade
-
-| Question | Your choice |
+| Question | Choice |
 |---|---|
-| **Winning aspiration**: winning in the customer's terms, not internal metrics | _____ |
-| **Where to play**: segment, geography, channel, use case (the no's matter too) | _____ |
-| **How to win**: your differentiator competitors can't easily replicate | _____ |
-| **Capabilities required**: what you must be world-class at (build / buy / partner) | _____ |
-| **Management systems**: the metrics and rituals that reinforce your choices | _____ |
+| Winning aspiration | Young professionals ages 25-30 (current highest usage segment) continue to use Fable after sleep improves, and also choose to use the app for a personalized enhanced experience that provides them additional self-care support beyond sleep |
+| Where to play | United States; users ages 25-30 professionals |
+| How to win | Historical data for Fable's existing customers in our target group which provides insights about sleep patterns and other habits and activities that they currently enjoy, allowing for personalization built on what we’ve learned about our existing users |
+| Capabilities required | a self-care content library, detect when someone’s sleep has improved |
+| Management systems | sleep-quality check-ins monthly, sentiment analysis, non-sleep feature adoption weekly, churn quarterly with monthly active users as the weekly early warning, 30-day retention of newly improved users monthly check-in |
 
-## 2. Your one hard no
+## One hard no
+We wont sell data or share it with employers, insurers or advertisers or use it for anything outside the product, unless a user directs us to
 
-_One valuable thing you are explicitly choosing **not** to do, and why it protects the focus of everything above. This is a deliberate trade-off, not a backlog of deprioritized items._
-
-> We will not … because …
-
-## 3. OKR cascade
-
-_One Objective and three Key Results that flow directly from the cascade. Each KR must be a measurable **outcome**, not an output/milestone._
-
-> **Objective:** _____
->
-> - **KR1:** [metric] from [baseline] to [target] by [date]
-> - **KR2:** [metric] from [baseline] to [target] by [date]
-> - **KR3:** [metric] from [baseline] to [target] by [date]
-
-## 4. AI pressure-test notes
-
-_Run the devil's-advocate prompt (in the Sprint 2 guide). Capture the verdict._
-
-| Prompt question | What the AI surfaced | Change or defend? |
-|---|---|---|
-| Biggest assumption that could be wrong | _____ | _____ |
-| The board question I can't yet answer | _____ | _____ |
-| KRs that are outputs in disguise | _____ | _____ |
-| The "no" I should reconsider | _____ | _____ |
-| Strategy or wish list? Why? | _____ | · |
-
-## 5. Self-diagnostic (6 questions)
-
-- [ ] **Clear**: a new PM could read it and know exactly what we will and won't do
-- [ ] **Names the real challenge**: the diagnosis is specific enough to be uncomfortable
-- [ ] **Makes a hard bet**: it says no to something valuable
-- [ ] **Cascadable**: teams can translate it into their own OKRs
-- [ ] **Coherent**: every choice reinforces the others
-- [ ] **Committed**: resources are actually moving toward it
-
-## Link to full artifact
-
-_[link to your Strategy Sprint Builder export in your repo]_
+## OKR cascade
+- **Objective:** Become the app young professionals rely on for sleep, and increasingly for self-care beyond it KR1: Increase 90-day retention among target users who report improved sleep from 80% to 90% by end of Q3 2027.
+- **KR1:** Increase 90-day retention among target users who report improved sleep from 80% to 90% by end of Q3 2027.
+- **KR2:** Reduce quarterly churn in the target group from 40% to 10% by end of Q3 2027.
+- **KR3:** Show that target users given access to the enhanced features retain at least 10 points better than a holdout group matched on starting sleep quality and engagement by end of Q2 2027.  Guardrail, (management system data): sleep improvement stays at or above 80%.
