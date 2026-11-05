@@ -1,23 +1,15 @@
 # Individual Insights: Strategy Development Process
 
-> Module 6 · Leverage AI Tools for Leadership Execution
->
-> Your personal reflection on building the strategy end to end.
+> Module 6 · Lead the Team That Builds with AI
 
 ## Friction points
 
-___Prioritizing was the hardest part of building this strategy.__
-
-> _____
+> Prioritization was the most challenging.
 
 ## Key learnings
 
-_A few surprising discoveries or insights you gained from the course overall._
-
-> _____
+> Develop a more effective prioritization process.
 
 ## "Aha!" moment
-
-_Your main "aha" moment during the project process._
 
 > _____
